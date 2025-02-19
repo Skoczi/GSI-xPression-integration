@@ -1,0 +1,16 @@
+{
+  "webServerPort": 2137,
+  "gsiReceiverPort": 2137,
+  "rosstalk": {
+    "host": "127.0.0.1",
+    "port": 7780
+  },
+  "triggerConfig": {
+    "1": "TAKE 8100:1:300",
+    "3": "TAKE 8101:1:300",
+    "6": "TAKE 8103:1:300",
+    "10": "TAKE 8105:1:300",
+    "13": "TAKE 8102:1:300"
+  },
+  "triggerTime": "01:45"
+}
